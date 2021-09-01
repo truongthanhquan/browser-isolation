@@ -3,5 +3,6 @@
   "description": "The browser isolation",
   "logo": "https://github.com/i5ik/ViewFinder/raw/master/public/logo.png",
   "repository": "https://github.com/truongthanhquan/browser-isolation",
-  "keywords": ["node", "browser", "isolation"]
+  "keywords": ["node", "browser", "isolation"],
+  "stack": "container"
 }
