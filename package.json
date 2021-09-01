@@ -1,0 +1,19 @@
+{
+  "name": "browser-isolation",
+  "version": "1.0.0",
+  "description": "Deploy browser isolation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/truongthanhquan/browser-isolation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/truongthanhquan/browser-isolation/issues"
+  },
+  "homepage": "https://github.com/truongthanhquan/browser-isolation#readme"
+}
